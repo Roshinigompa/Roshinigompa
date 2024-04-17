@@ -23,7 +23,7 @@ I am currently pursuing a Master of Professional Studies in Data Science at the 
 - Received a Golden Star Award by Tech Lead for implementing critical features in the Signia App.
 - The Complete Front-End Development by Udemy
 - Google Data Analytics by Coursera
-- 
+
 
 👷‍♀️ **Projects**
 - Analysis-of-Federal-Contract-Data: Contributed to strategic decision-making by analyzing government contracts data.
