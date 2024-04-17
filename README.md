@@ -41,5 +41,5 @@ I am currently pursuing a Master of Professional Studies in Data Science at the 
 - Volunteering with Retriever Essentials @ UMBC: Contributed to free farmers market initiative and volunteered for meal packing program.
 
 🔍 How to find me
-You can follow me on LinkedIn:[LinkedIn Profile](https://www.linkedin.com/in/gompa-hyma/)
+You can follow me on LinkedIn:[Hyma Roshini Gompa](https://www.linkedin.com/in/gompa-hyma/)
 
