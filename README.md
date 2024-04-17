@@ -1,4 +1,5 @@
 👧**Introduction**
+
 I am currently pursuing a Master of Professional Studies in Data Science at the University of Maryland, Baltimore County (UMBC). With a Bachelor's degree in Computer Science from Lovely Professional University, India, and professional experience as a Data Analyst at Josh Technology Group, I bring a robust skill set in programming, statistics, and data analysis to the table. 
 
 📚 **Education**
