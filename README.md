@@ -31,8 +31,8 @@ I am currently pursuing a Master of Professional Studies in Data Science at the 
 - AIDS Clinical Trials Group Study 175 Analysis: Led a comprehensive data analysis of clinical trial data to optimize patient care pathways.
 
 👷‍♀️ **Experience**
-- Data Analyst, Josh Technology Group: Enhanced sales through Tableau dashboards and conducted in-depth data analysis using Python and SQL.
-- Data Analyst Intern, Josh Technology Group: Led the development of data analysis best practices in Tableau and analyzed data to streamline operations.
+- Data Engineer, Trulogik: Enhanced sales through Tableau dashboards and conducted in-depth data analysis using Python and SQL.
+- Data Engineer, Josh Technology Group: Led the development of data analysis best practices in Tableau and analyzed data to streamline operations.
   
 
 🚺 **Leadership Experience**
